@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "samd21",
+      "maintainer": "developer",
+      "websiteURL": "https://abc.com",
+      "email" : "thao.bk91@gmail.com",
+      "platforms":
+      [
+        {
+          "name": "Samd21 Custom Boards",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+		  "url": "https://github.com/thaobk91/arduino_samd21_custom/samd21_custom_0.0.1.zip",
+          "archiveFileName": "samd21_custom_0.0.1.zip",
+          "checksum": "SHA-256:cc5018ea8b81a342e34a978eefc3e942833e5bc48325a317aedcd4e62bae2cbd",
+          "size": "1623822",
+          "boards": [
+            {
+              "name": "Samd21 Custom Boards"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
