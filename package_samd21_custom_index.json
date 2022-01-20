@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-		  "url": "https://github.com/thaobk91/arduino_samd21_custom/samd21_custom_0.0.1.zip",
+		  "url": "https://github.com/thaobk91/arduino_samd21_custom/blob/main/samd21_custom_0.0.1.zip",
           "archiveFileName": "samd21_custom_0.0.1.zip",
           "checksum": "SHA-256:cc5018ea8b81a342e34a978eefc3e942833e5bc48325a317aedcd4e62bae2cbd",
           "size": "1623822",
